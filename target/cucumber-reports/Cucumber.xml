@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.12">
+    <testcase classname="Verify the Building and Constructions on middle page" name="Validate the Building and Constructions on middle page" time="0.022">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given open the Browsers.....................................................undefined
+When enter a the url "https://www.indiamart.com"............................skipped
+And click Building and Constructions on middle area.........................skipped
+Then user is navigate to the Building and Constructions.....................skipped
+]]></failure>
+    </testcase>
+</testsuite>
